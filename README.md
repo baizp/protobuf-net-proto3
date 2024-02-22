@@ -1,4 +1,4 @@
-# protobuf-net-v2
+# protobuf-net-proto3
 
 魔改自 JEngine 框架的 protobuf-net
 
